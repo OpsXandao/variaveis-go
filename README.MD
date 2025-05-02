@@ -16,3 +16,4 @@ Este repositório contém exemplos simples de declaração e uso de variáveis n
 ```bash
 git clone git@github.com-opsxandao:OpsXandao/variaveis-go.git
 cd variaveis-go
+go run main.go
